@@ -40,6 +40,12 @@ public class Container {
 
         TreeMap TreeMap = new TreeMap();
 
+        TreeSet TreeSet = new TreeSet();
+
         Thread thread = new Thread();
+
+        PriorityQueue priorityQueue = new PriorityQueue();
+
+        Observable Observable = new Observable();
     }
 }
